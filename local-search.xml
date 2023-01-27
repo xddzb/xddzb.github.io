@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>cpp面试准备指南</title>
+    <link href="/2023/01/27/cpp%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87%E6%8C%87%E5%8D%97/"/>
+    <url>/2023/01/27/cpp%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87%E6%8C%87%E5%8D%97/</url>
+    
+    <content type="html"><![CDATA[<h1 id="C-面试面试一条龙"><a href="#C-面试面试一条龙" class="headerlink" title="C++面试面试一条龙"></a>C++面试面试一条龙</h1><h2 id="面试题的学习（八股文）"><a href="#面试题的学习（八股文）" class="headerlink" title="面试题的学习（八股文）"></a>面试题的学习（八股文）</h2><p><img src="/img%5Ccpp%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87%E6%8C%87%E5%8D%97%5C202301182302926.png" alt="image-20230118230253817"></p><p><a href="https://interviewguide.cn/notes/03-hunting_job/02-interview/01-01-01-basic.html">基础语法-01-20 | 阿秀的学习笔记 (interviewguide.cn)</a></p><p><img src="/img%5Ccpp%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87%E6%8C%87%E5%8D%97%5C202301182303199.png" alt="image-20230118230320128"></p><p><a href="https://www.nowcoder.com/issue/tutorial?tutorialId=10069&uuid=cbbd53166e7240dba9ced2b3c03d89b8">编程入门教程_名企面试真题面经_牛客网_牛客网 (nowcoder.com)</a></p><p><img src="/img%5Ccpp%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87%E6%8C%87%E5%8D%97%5C202301182305597.png" alt="image-20230118230523542"></p><p><a href="https://leetcode.cn/problem-list/e8X3pBZi/">剑指 Offer（专项突击版） - 力扣（LeetCode）</a></p><h2 id="计算机系统和计算机网络视频学习"><a href="#计算机系统和计算机网络视频学习" class="headerlink" title="计算机系统和计算机网络视频学习"></a>计算机系统和计算机网络视频学习</h2><p>准备面试用：</p><p><img src="/img%5Ccpp%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87%E6%8C%87%E5%8D%97%5C202301182306019.png" alt="image-20230118230617949"></p><p><a href="https://www.bilibili.com/video/BV1kS4y1H7RE/?spm_id_from=333.999.0.0">【知识分享】重学操作系统_哔哩哔哩_bilibili</a></p><p><img src="/img%5Ccpp%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87%E6%8C%87%E5%8D%97%5C202301182307863.png" alt="image-20230118230755745"></p><p>[操作系统概述 (为什么要学操作系统) <a href="https://www.bilibili.com/video/BV1Cm4y1d7Ur/?spm_id_from=333.788.recommend_more_video.22&vd_source=96dd2539b156b0809378103a5f27b949">南京大学2022操作系统-蒋炎岩-P1]_哔哩哔哩_bilibili</a></p><h2 id="计算机网络"><a href="#计算机网络" class="headerlink" title="计算机网络"></a>计算机网络</h2><p><img src="/img%5Ccpp%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87%E6%8C%87%E5%8D%97%5C202301182309336.png" alt="image-20230118230905251"></p><p><a href="https://www.bilibili.com/video/BV1B34y1e7kU?p=2&vd_source=fde5e3ce1aff0d59f6c27d0fe2ca5a70">开篇词 一次搞定计算机网络，高效修炼程序员内功_哔哩哔哩_bilibili</a></p><p><img src="/img%5Ccpp%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87%E6%8C%87%E5%8D%97%5C202301182309347.png" alt="image-20230118230931119"></p><p><a href="https://www.bilibili.com/video/BV1JV411t7ow/?spm_id_from=333.999.0.0&vd_source=96dd2539b156b0809378103a5f27b949">中科大郑烇、杨坚全套《计算机网络（自顶向下方法 第7版，James F.Kurose，Keith W.Ross）》课程_哔哩哔哩_bilibili</a></p><h2 id="项目准备"><a href="#项目准备" class="headerlink" title="项目准备"></a>项目准备</h2><h3 id="书籍推荐"><a href="#书籍推荐" class="headerlink" title="书籍推荐"></a>书籍推荐</h3><p><img src="/img%5Ccpp%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87%E6%8C%87%E5%8D%97%5C3bbabd5111ff48fb934e78606b6e719d.jpg" alt="linux高性能服务器编程"></p><p><a href="https://book.douban.com/subject/24722611/">入门+浅浅实战</a></p><p><img src="/img%5Ccpp%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87%E6%8C%87%E5%8D%97%5C8199c5dc01df469784ab5e9507e83530.jpg" alt="linux多线程服务器编程"></p><p><a href="https://book.douban.com/subject/20471211/">深入实战</a></p><h3 id="视频推荐"><a href="#视频推荐" class="headerlink" title="视频推荐"></a>视频推荐</h3><p><strong>零基础相关视频学习</strong></p><p>这个视频基本上可以平替第一本书，但是第一本书里面的系统调用讲解的更为丰富和全面，这个视频讲解的是用到最多的。</p><p><a href="https://www.nowcoder.com/study/live/504/2/25">牛客网linux服务器</a></p><p><strong>muduo网络库相关</strong></p><p><img src="/img%5Ccpp%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87%E6%8C%87%E5%8D%97%5C202301182312411.png" alt="image-20230118231256366"></p><p><a href="https://www.bilibili.com/video/BV1nu411Q7Gq?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=96dd2539b156b0809378103a5f27b949">muduo网络编程</a></p><p><img src="/img%5Ccpp%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87%E6%8C%87%E5%8D%97%5C202301182312208.png" alt="image-20230118231246164"></p><p><a href="https://www.bilibili.com/video/BV1Zt411K7Gg/?spm_id_from=333.337.search-card.all.click&vd_source=fde5e3ce1aff0d59f6c27d0fe2ca5a70">大并发服务器架构（陈硕muduo库源码解析）_哔哩哔哩_bilibili</a></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>cpp</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2023/01/26/hello-world/"/>
+    <url>/2023/01/26/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
