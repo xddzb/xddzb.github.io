@@ -90,25 +90,6 @@
   
   
   <entry>
-    <title>CPP面试准备路线</title>
-    <link href="/2023/01/27/c++%E9%9D%A2%E8%AF%95%E4%B8%80%E6%9D%A1%E9%BE%99/"/>
-    <url>/2023/01/27/c++%E9%9D%A2%E8%AF%95%E4%B8%80%E6%9D%A1%E9%BE%99/</url>
-    
-    <content type="html"><![CDATA[<h1 id="C-面试面试一条龙"><a href="#C-面试面试一条龙" class="headerlink" title="C++面试面试一条龙"></a>C++面试面试一条龙</h1><h2 id="面试题的学习（八股文）"><a href="#面试题的学习（八股文）" class="headerlink" title="面试题的学习（八股文）"></a>面试题的学习（八股文）</h2><p><img src="https://img-blog.csdnimg.cn/img_convert/e30408603615b34936eafe5c83c54cbd.png" alt="image-20230118230253817"></p><p><a href="https://interviewguide.cn/notes/03-hunting_job/02-interview/01-01-01-basic.html">基础语法-01-20 | 阿秀的学习笔记 (interviewguide.cn)</a></p><p><img src="https://img-blog.csdnimg.cn/img_convert/890f297f6b75ec4a70f806b0835db378.png" alt="image-20230118230320128"></p><p><a href="https://www.nowcoder.com/issue/tutorial?tutorialId=10069&uuid=cbbd53166e7240dba9ced2b3c03d89b8">编程入门教程_名企面试真题面经_牛客网_牛客网 (nowcoder.com)</a></p><p><img src="https://img-blog.csdnimg.cn/img_convert/2b59f822c20b33dc272c50ca58ba9ac5.png" alt="image-20230118230523542"></p><p><a href="https://leetcode.cn/problem-list/e8X3pBZi/">剑指 Offer（专项突击版） - 力扣（LeetCode）</a></p><h2 id="计算机系统和计算机网络视频学习"><a href="#计算机系统和计算机网络视频学习" class="headerlink" title="计算机系统和计算机网络视频学习"></a>计算机系统和计算机网络视频学习</h2><p>准备面试用：</p><p><img src="https://img-blog.csdnimg.cn/img_convert/fe27e223285aefd97d46f26fe7b5a385.png" alt="image-20230118230617949"></p><p><a href="https://www.bilibili.com/video/BV1kS4y1H7RE/?spm_id_from=333.999.0.0">【知识分享】重学操作系统_哔哩哔哩_bilibili</a></p><p><img src="https://img-blog.csdnimg.cn/img_convert/b90dfa5cbecb39c42c44b780849b98a0.png" alt="image-20230118230755745"></p><p>[操作系统概述 (为什么要学操作系统) <a href="https://www.bilibili.com/video/BV1Cm4y1d7Ur/?spm_id_from=333.788.recommend_more_video.22&vd_source=96dd2539b156b0809378103a5f27b949">南京大学2022操作系统-蒋炎岩-P1]_哔哩哔哩_bilibili</a></p><h2 id="计算机网络"><a href="#计算机网络" class="headerlink" title="计算机网络"></a>计算机网络</h2><p><img src="https://img-blog.csdnimg.cn/img_convert/597968a4286f86fa665faf461737709c.png" alt="image-20230118230905251"></p><p><a href="https://www.bilibili.com/video/BV1B34y1e7kU?p=2&vd_source=fde5e3ce1aff0d59f6c27d0fe2ca5a70">开篇词 一次搞定计算机网络，高效修炼程序员内功_哔哩哔哩_bilibili</a></p><p><img src="https://img-blog.csdnimg.cn/img_convert/a3e2fb64e40bb94434859bc01c3e3553.png" alt="image-20230118230931119"></p><p><a href="https://www.bilibili.com/video/BV1JV411t7ow/?spm_id_from=333.999.0.0&vd_source=96dd2539b156b0809378103a5f27b949">中科大郑烇、杨坚全套《计算机网络（自顶向下方法 第7版，James F.Kurose，Keith W.Ross）》课程_哔哩哔哩_bilibili</a></p><h2 id="项目准备"><a href="#项目准备" class="headerlink" title="项目准备"></a>项目准备</h2><h3 id="书籍推荐"><a href="#书籍推荐" class="headerlink" title="书籍推荐"></a>书籍推荐</h3><p><img src="https://img-blog.csdnimg.cn/img_convert/6aeb8b084c128191870b653123f26fef.png" alt="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3bbabd5111ff48fb934e78606b6e719d~tplv-k3u1fbpfcp-watermark.image?"></p><p><a href="https://book.douban.com/subject/24722611/">入门+浅浅实战</a></p><p><img src="https://img-blog.csdnimg.cn/img_convert/fb2ab01af453d680c5d04f111dd4a336.png" alt="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8199c5dc01df469784ab5e9507e83530~tplv-k3u1fbpfcp-watermark.image?"></p><p><a href="https://book.douban.com/subject/20471211/">深入实战</a></p><h3 id="视频推荐"><a href="#视频推荐" class="headerlink" title="视频推荐"></a>视频推荐</h3><p><strong>零基础相关视频学习</strong></p><p>这个视频基本上可以平替第一本书，但是第一本书里面的系统调用讲解的更为丰富和全面，这个视频讲解的是用到最多的。</p><p><a href="https://www.nowcoder.com/study/live/504/2/25">https://www.nowcoder.com/study/live/504/2/25</a></p><p><strong>muduo网络库相关</strong></p><p><img src="https://img-blog.csdnimg.cn/img_convert/9a79884da6010cccf8e2451b1cf4a187.png" alt="image-20230118231256366"></p><p><a href="https://www.bilibili.com/video/BV1nu411Q7Gq?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=96dd2539b156b0809378103a5f27b949">https://www.bilibili.com/video/BV1nu411Q7Gq?spm_id_from=333.1007.top_right_bar_window_history.content.click&amp;vd_source=96dd2539b156b0809378103a5f27b949</a></p><p><img src="https://img-blog.csdnimg.cn/img_convert/cda515037ab8532b2d4cf0f210a2d364.png" alt="image-20230118231246164"></p><p>0809378103a5f27b949</p><p>[外链图片转存中…(img-l7Fu64To-1674823122972)]</p><p><a href="https://www.bilibili.com/video/BV11B4y1b7kG?spm_id_from=333.337.search-card.all.click&vd_source=96dd2539b156b0809378103a5f27b949">https://www.bilibili.com/video/BV11B4y1b7kG?spm_id_from=333.337.search-card.all.click&amp;vd_source=96dd2539b156b0809378103a5f27b949</a></p>]]></content>
-    
-    
-    
-    <tags>
-      
-      <tag>cpp</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title>青训营项目部署过程</title>
     <link href="/2023/01/27/%E9%9D%92%E8%AE%AD%E8%90%A5%E5%A4%A7%E4%BD%9C%E4%B8%9A%E9%83%A8%E7%BD%B2%E8%BF%87%E7%A8%8B/"/>
     <url>/2023/01/27/%E9%9D%92%E8%AE%AD%E8%90%A5%E5%A4%A7%E4%BD%9C%E4%B8%9A%E9%83%A8%E7%BD%B2%E8%BF%87%E7%A8%8B/</url>
@@ -120,6 +101,25 @@
     <tags>
       
       <tag>golang</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>CPP面试准备路线</title>
+    <link href="/2023/01/27/c++%E9%9D%A2%E8%AF%95%E4%B8%80%E6%9D%A1%E9%BE%99/"/>
+    <url>/2023/01/27/c++%E9%9D%A2%E8%AF%95%E4%B8%80%E6%9D%A1%E9%BE%99/</url>
+    
+    <content type="html"><![CDATA[<h1 id="C-面试面试一条龙"><a href="#C-面试面试一条龙" class="headerlink" title="C++面试面试一条龙"></a>C++面试面试一条龙</h1><h2 id="面试题的学习（八股文）"><a href="#面试题的学习（八股文）" class="headerlink" title="面试题的学习（八股文）"></a>面试题的学习（八股文）</h2><p><img src="https://img-blog.csdnimg.cn/img_convert/e30408603615b34936eafe5c83c54cbd.png" alt="image-20230118230253817"></p><p><a href="https://interviewguide.cn/notes/03-hunting_job/02-interview/01-01-01-basic.html">基础语法-01-20 | 阿秀的学习笔记 (interviewguide.cn)</a></p><p><img src="https://img-blog.csdnimg.cn/img_convert/890f297f6b75ec4a70f806b0835db378.png" alt="image-20230118230320128"></p><p><a href="https://www.nowcoder.com/issue/tutorial?tutorialId=10069&uuid=cbbd53166e7240dba9ced2b3c03d89b8">编程入门教程_名企面试真题面经_牛客网_牛客网 (nowcoder.com)</a></p><p><img src="https://img-blog.csdnimg.cn/img_convert/2b59f822c20b33dc272c50ca58ba9ac5.png" alt="image-20230118230523542"></p><p><a href="https://leetcode.cn/problem-list/e8X3pBZi/">剑指 Offer（专项突击版） - 力扣（LeetCode）</a></p><h2 id="计算机系统和计算机网络视频学习"><a href="#计算机系统和计算机网络视频学习" class="headerlink" title="计算机系统和计算机网络视频学习"></a>计算机系统和计算机网络视频学习</h2><p>准备面试用：</p><p><img src="https://img-blog.csdnimg.cn/img_convert/fe27e223285aefd97d46f26fe7b5a385.png" alt="image-20230118230617949"></p><p><a href="https://www.bilibili.com/video/BV1kS4y1H7RE/?spm_id_from=333.999.0.0">【知识分享】重学操作系统_哔哩哔哩_bilibili</a></p><p><img src="https://img-blog.csdnimg.cn/img_convert/b90dfa5cbecb39c42c44b780849b98a0.png" alt="image-20230118230755745"></p><p>[操作系统概述 (为什么要学操作系统) <a href="https://www.bilibili.com/video/BV1Cm4y1d7Ur/?spm_id_from=333.788.recommend_more_video.22&vd_source=96dd2539b156b0809378103a5f27b949">南京大学2022操作系统-蒋炎岩-P1]_哔哩哔哩_bilibili</a></p><h2 id="计算机网络"><a href="#计算机网络" class="headerlink" title="计算机网络"></a>计算机网络</h2><p><img src="https://img-blog.csdnimg.cn/img_convert/597968a4286f86fa665faf461737709c.png" alt="image-20230118230905251"></p><p><a href="https://www.bilibili.com/video/BV1B34y1e7kU?p=2&vd_source=fde5e3ce1aff0d59f6c27d0fe2ca5a70">开篇词 一次搞定计算机网络，高效修炼程序员内功_哔哩哔哩_bilibili</a></p><p><img src="https://img-blog.csdnimg.cn/img_convert/a3e2fb64e40bb94434859bc01c3e3553.png" alt="image-20230118230931119"></p><p><a href="https://www.bilibili.com/video/BV1JV411t7ow/?spm_id_from=333.999.0.0&vd_source=96dd2539b156b0809378103a5f27b949">中科大郑烇、杨坚全套《计算机网络（自顶向下方法 第7版，James F.Kurose，Keith W.Ross）》课程_哔哩哔哩_bilibili</a></p><h2 id="项目准备"><a href="#项目准备" class="headerlink" title="项目准备"></a>项目准备</h2><h3 id="书籍推荐"><a href="#书籍推荐" class="headerlink" title="书籍推荐"></a>书籍推荐</h3><p><img src="https://img-blog.csdnimg.cn/img_convert/6aeb8b084c128191870b653123f26fef.png" alt="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3bbabd5111ff48fb934e78606b6e719d~tplv-k3u1fbpfcp-watermark.image?"></p><p><a href="https://book.douban.com/subject/24722611/">入门+浅浅实战</a></p><p><img src="https://img-blog.csdnimg.cn/img_convert/fb2ab01af453d680c5d04f111dd4a336.png" alt="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8199c5dc01df469784ab5e9507e83530~tplv-k3u1fbpfcp-watermark.image?"></p><p><a href="https://book.douban.com/subject/20471211/">深入实战</a></p><h3 id="视频推荐"><a href="#视频推荐" class="headerlink" title="视频推荐"></a>视频推荐</h3><p><strong>零基础相关视频学习</strong></p><p>这个视频基本上可以平替第一本书，但是第一本书里面的系统调用讲解的更为丰富和全面，这个视频讲解的是用到最多的。</p><p><a href="https://www.nowcoder.com/study/live/504/2/25">https://www.nowcoder.com/study/live/504/2/25</a></p><p><strong>muduo网络库相关</strong></p><p><img src="https://img-blog.csdnimg.cn/img_convert/9a79884da6010cccf8e2451b1cf4a187.png" alt="image-20230118231256366"></p><p><a href="https://www.bilibili.com/video/BV1nu411Q7Gq?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=96dd2539b156b0809378103a5f27b949">https://www.bilibili.com/video/BV1nu411Q7Gq?spm_id_from=333.1007.top_right_bar_window_history.content.click&amp;vd_source=96dd2539b156b0809378103a5f27b949</a></p><p><img src="https://img-blog.csdnimg.cn/img_convert/cda515037ab8532b2d4cf0f210a2d364.png" alt="image-20230118231246164"></p><p>0809378103a5f27b949</p><p>[外链图片转存中…(img-l7Fu64To-1674823122972)]</p><p><a href="https://www.bilibili.com/video/BV11B4y1b7kG?spm_id_from=333.337.search-card.all.click&vd_source=96dd2539b156b0809378103a5f27b949">https://www.bilibili.com/video/BV11B4y1b7kG?spm_id_from=333.337.search-card.all.click&amp;vd_source=96dd2539b156b0809378103a5f27b949</a></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>cpp</tag>
       
     </tags>
     
