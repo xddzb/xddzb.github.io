@@ -8,15 +8,15 @@
     <link href="/2023/02/23/%E6%97%A5%E5%B8%B8%E5%AE%9E%E4%B9%A0%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87/"/>
     <url>/2023/02/23/%E6%97%A5%E5%B8%B8%E5%AE%9E%E4%B9%A0%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87/</url>
     
-    <content type="html"><![CDATA[<h1 id="c-面试准备"><a href="#c-面试准备" class="headerlink" title="c++面试准备"></a>c++面试准备</h1><h2 id="git"><a href="#git" class="headerlink" title="git"></a>git</h2><ol><li>git pull和git fetch 区别</li></ol><p><img src="/../img/%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87/e0eab2b33e85ea5f5e5c2aa3fd5fcf69.png" alt="img"></p><p><code>git fetch</code>是将远程主机的最新内容拉到本地，用户在检查了以后决定是否合并到工作本机分支中。</p><p>而<code>git pull</code> 则是将远程主机的最新内容拉下来后直接合并，即：<code>git pull = git fetch + git merge</code>，这样可能会产生冲突，需要手动解决。</p><h2 id="数据库"><a href="#数据库" class="headerlink" title="数据库"></a>数据库</h2><h3 id="mysql"><a href="#mysql" class="headerlink" title="mysql"></a>mysql</h3><p>隔离级别（了解一下快照隔离）</p><p>索引</p><h3 id="redis"><a href="#redis" class="headerlink" title="redis"></a>redis</h3><p>过期删除策略</p><p>哨兵</p><h2 id="linux"><a href="#linux" class="headerlink" title="linux"></a>linux</h2><p>信号</p>]]></content>
+    <content type="html"><![CDATA[<p>本篇博客记录遇到的一些个人认为有比较大概率被问到的知识点</p><span id="more"></span><h1 id="c-面试准备"><a href="#c-面试准备" class="headerlink" title="c++面试准备"></a>c++面试准备</h1><h2 id="git"><a href="#git" class="headerlink" title="git"></a>git</h2><ol><li>git pull和git fetch 区别</li></ol><p><img src="/../img/%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87/e0eab2b33e85ea5f5e5c2aa3fd5fcf69.png" alt="img"></p><p><code>git fetch</code>是将远程主机的最新内容拉到本地，用户在检查了以后决定是否合并到工作本机分支中。</p><p>而<code>git pull</code> 则是将远程主机的最新内容拉下来后直接合并，即：<code>git pull = git fetch + git merge</code>，这样可能会产生冲突，需要手动解决。</p><h2 id="数据库"><a href="#数据库" class="headerlink" title="数据库"></a>数据库</h2><h3 id="mysql"><a href="#mysql" class="headerlink" title="mysql"></a>mysql</h3><p>隔离级别（了解一下快照隔离）</p><p>索引</p><h3 id="redis"><a href="#redis" class="headerlink" title="redis"></a>redis</h3><p>过期删除策略</p><p>哨兵</p><h2 id="linux"><a href="#linux" class="headerlink" title="linux"></a>linux</h2><p>信号</p>]]></content>
     
     
     
     <tags>
       
-      <tag>面试准备</tag>
-      
       <tag>常识</tag>
+      
+      <tag>面试准备</tag>
       
     </tags>
     
@@ -29,7 +29,7 @@
     <link href="/2023/02/21/%E4%BA%8C%E5%8F%89%E6%A0%91%E6%A8%A1%E6%9D%BF%E9%A2%98%E6%80%BB%E7%BB%93/"/>
     <url>/2023/02/21/%E4%BA%8C%E5%8F%89%E6%A0%91%E6%A8%A1%E6%9D%BF%E9%A2%98%E6%80%BB%E7%BB%93/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<p>二叉树递归遍历、迭代遍历(前序 中序 后序)及c++中的set map</p><span id="more"></span>]]></content>
     
     
     
