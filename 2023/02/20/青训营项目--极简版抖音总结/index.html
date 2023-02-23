@@ -26,7 +26,7 @@
 <meta property="og:image" content="http://example.com/img/%E9%9D%92%E8%AE%AD%E8%90%A5%E9%A1%B9%E7%9B%AE--%E6%9E%81%E7%AE%80%E7%89%88%E6%8A%96%E9%9F%B3%E6%80%BB%E7%BB%93/image-20230220165140537.png">
 <meta property="og:image" content="http://example.com/img/%E9%9D%92%E8%AE%AD%E8%90%A5%E9%A1%B9%E7%9B%AE--%E6%9E%81%E7%AE%80%E7%89%88%E6%8A%96%E9%9F%B3%E6%80%BB%E7%BB%93/%E9%9D%92%E8%AE%AD%E8%90%A5%E5%A4%A7%E4%BD%9C%E4%B8%9A%E6%9E%B6%E6%9E%84%E8%AF%B4%E6%98%8E.jpg">
 <meta property="article:published_time" content="2023-02-20T08:12:07.000Z">
-<meta property="article:modified_time" content="2023-02-23T12:13:19.289Z">
+<meta property="article:modified_time" content="2023-02-23T13:07:17.978Z">
 <meta property="article:author" content="John Doe">
 <meta property="article:tag" content="青训营">
 <meta property="article:tag" content="golang">
@@ -253,7 +253,7 @@
         
         
         
-          25 分钟
+          26 分钟
         
       </span>
     
@@ -356,10 +356,10 @@
 <p>以用户登录模块为例共需要经过以下过程</p>
 </blockquote>
 <ol>
-<li>进入中间件JWTMidWare内的函数逻辑，得到password明文加密后再设置password。具体需要调用gin.Context的Set方法设置password。随后调用next()方法继续下层路由。</li>
-<li>进入UserLoginHandler函数逻辑，获取username，并调用gin.Context的Get方法得到中间件设置的password。再调用service层的QueryUserLogin函数。</li>
-<li>进入QueryUserLogin函数逻辑，执行三个过程：checkNum，prepareData，packData。也就是检查参数、准备数据、打包数据，准备数据的过程中会调用models层的UserLoginDAO。</li>
-<li>进入UserLoginDAO的逻辑，执行最终的数据库请求过程，返回给上层。</li>
+<li>首先进入<strong>中间件</strong>SHAMiddleWare内的函数逻辑，得到password明文加密后调用gin.Context的Set方法设置到context对象中。随后调用next()方法继续下层路由。</li>
+<li>接着进入<strong>handler层</strong>UserLoginHandler函数逻辑，该函数负责从请求参数和context对象中读取username和password参数，并将得到的数据以规定的格式传给前端，获取相关数据的具体操作在service层中的QueryUserLogin函数中实现。</li>
+<li>进入<strong>service层</strong>QueryUserLogin函数逻辑，执行三个过程：checkNum，prepareData，packData。也就是检查参数、准备数据、打包数据，准备数据的过程中会调用model层的UserLoginDAO，从数据持久层中获取数据。</li>
+<li>进入<strong>service层</strong>UserLoginDAO的逻辑，执行最终的数据库请求过程，返回给上层。</li>
 </ol>
 <h3 id="2-数据库说明"><a href="#2-数据库说明" class="headerlink" title="2.  数据库说明"></a>2.  数据库说明</h3><h3 id="3-遇到的问题"><a href="#3-遇到的问题" class="headerlink" title="3.  遇到的问题"></a>3.  遇到的问题</h3><h3 id="4-可改进的地方"><a href="#4-可改进的地方" class="headerlink" title="4. 可改进的地方"></a>4. 可改进的地方</h3><ol>
 <li>很多执行逻辑可以通过并行优化。</li>
@@ -369,9 +369,7 @@
 <li>密码的加密没有进行加盐处理。</li>
 <li>使用gorm时，使用了原始的sql命令。</li>
 </ol>
-<h3 id="5-项目运行"><a href="#5-项目运行" class="headerlink" title="5.  项目运行"></a>5.  项目运行</h3><blockquote>
-<p>本项目运行不需要手动建表，项目启动后会自动建表。</p>
-</blockquote>
+<h3 id="5-项目运行"><a href="#5-项目运行" class="headerlink" title="5.  项目运行"></a>5.  项目运行</h3><p>本项目运行不需要手动建表，项目启动后会自动建表。</p>
 <p>运行所需环境：</p>
 <ul>
 <li>mysql 5.7及以上</li>
@@ -394,7 +392,7 @@
 <p> if _, err :&#x3D; toml.DecodeFile(“你的绝对路径\config.toml”, &amp;Info); err !&#x3D; nil {         panic(err)     }</p>
 </blockquote>
 <p>运行所需命令：</p>
-<figure class="highlight go"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs go">cd .\byte_douyin_project\<br><span class="hljs-keyword">go</span> run main.<span class="hljs-keyword">go</span><br></code></pre></td></tr></table></figure>
+<figure class="highlight go"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs go">cd .\dousheng\<br><span class="hljs-keyword">go</span> run main.<span class="hljs-keyword">go</span><br></code></pre></td></tr></table></figure>
 
 <h1 id="个人收获"><a href="#个人收获" class="headerlink" title="个人收获"></a>个人收获</h1><p>由于第一次接触到这类项目，本科期间主要做的前端后端只做过简单的API服务器，所以有很多东西之前没有接触过，这次的项目可以说是边学习边coding的过程，阅读往届优秀作品的源码也让我受益良多。</p>
 <ol>
